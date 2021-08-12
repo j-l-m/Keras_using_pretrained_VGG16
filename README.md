@@ -2,7 +2,7 @@
 Part of MSc project. Involves using VGG16 pretrained on ImageNet
 
 <br/><br/>
-**[CLICK HERE](https://github.com/j-l-m/Keras_using_pretrained_VGG16) to view the code and output**
+**[CLICK HERE](https:///j-l-m.github.io/Keras_using_pretrained_VGG16) to view the code and output**
 <br/><br/>
 
 ## Using VGG16 pretrained on *ImageNet* for a new task by replacing the classifier at the top of the network
